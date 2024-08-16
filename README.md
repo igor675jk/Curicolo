@@ -14,12 +14,13 @@
 
 
 
+𖨠Tenho 17 anos;
 
 𖨠📚Atualmente eu estou cursando o ultimo ano do ensino médio em periodo matutino;
 
 𖨠Até o momento estou trabalahndo em um lava carr; 
 
-𖨠🥋Treino taekwondo;
+𖨠🥋sou atleta de taekwondo;
 
 𖨠Ja fiz anteriormente um pequeno cursinho sobre programaçao em python;
 
@@ -27,8 +28,8 @@
 
 
 
-
-
+<ims src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
 
 
