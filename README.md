@@ -24,7 +24,7 @@
 
 𖨠Ja fiz anteriormente um pequeno cursinho sobre programaçao em python;
 
-𖨠cursando o jovem programador do senac (chapecó SC)𖨠
+𖨠cursando o jovem programador do senac (chapecó SC).
 
 
 <a href ="https://www.instagram.com/igor675jk/"/>
