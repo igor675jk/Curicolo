@@ -12,7 +12,7 @@
 
 ![igor675jk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igor675jk&theme=radical&show_icons=true&hide_border=false&layout=compact) 
 
-
+#sobre mim 
 
 𖨠Tenho 17 anos;
 
@@ -25,6 +25,7 @@
 𖨠Ja fiz anteriormente um pequeno cursinho sobre programaçao em python;
 
 𖨠cursando o jovem programador do senac (chapecó SC).
+
 
 
 <a href ="https://www.instagram.com/igor675jk/"/>
