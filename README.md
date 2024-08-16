@@ -28,7 +28,7 @@
 
 
 
-<a href ="https://www.instagram.com/igor675jk/"/>
+<a href ="https://www.instagram.com/igor675jk/">
 <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://discord.com/invite/z83BhsgG">
